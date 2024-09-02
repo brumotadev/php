@@ -40,7 +40,7 @@
 - Eles são essencialmente coleções ordenadas de pares chave-valor, onde cada valor pode ser acessado por uma chave única.
 - <i>Existem os seguintes tipos de Arrays em PHP:</i>
     - <b>Arrays Indexados:</b> 
-        - As chaves são números interiso começando do indice 0
+        - As chaves são números inteiros começando do indice 0
         - Usado para listar valores
         ```php
         <?php
